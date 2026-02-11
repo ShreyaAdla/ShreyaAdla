@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/">
+<a href="https://www.linkedin.com/in/shreyaadla">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="mailto:shreyaadla12@gmail.com">
