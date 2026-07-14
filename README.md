@@ -43,8 +43,7 @@
 Name: Shreya Adla
 Location: Milwaukee, WI 🌆
 Role: Full Stack Developer
-Company: SAAYAM For All (Non-Profit)
-Experience: 2+ Years
+Company: Capital One
 Education: MS Computer Science
 
 Mission: |
