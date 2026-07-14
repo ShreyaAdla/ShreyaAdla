@@ -70,7 +70,8 @@ Fun_Fact: |
 graph TD
     A[🎓 ECE Graduate<br/>2021] --> B[💼 TCS<br/>System Engineer<br/>2021-2022]
     B --> C[🎓 MS CS<br/>UW-Milwaukee<br/>2022-2024]
-    C --> D[🚀 Full Stack Dev<br/>Capital One<br/>2024-Present]
+    C --> D[🚀 Full Stack Dev<br/>Hyper Brains Media<br/>2022-2024]
+    D --> E[🚀 Full Stack Dev<br/>Capital One<br/>2024-Present]
     
     style A fill:#7c3aed,stroke:#fff,stroke-width:2px,color:#fff
     style B fill:#00d4ff,stroke:#fff,stroke-width:2px,color:#000
